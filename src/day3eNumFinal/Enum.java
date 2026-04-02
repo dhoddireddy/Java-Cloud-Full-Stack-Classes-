@@ -1,7 +1,7 @@
 //Used when values are fixed (like days, status, etc.)
 
 
-package eNumFinal;
+package day3eNumFinal;
 
 
 // enum = fixed set of constants

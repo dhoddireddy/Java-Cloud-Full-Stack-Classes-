@@ -1,4 +1,4 @@
-package Object;
+package day3Object;
 
 import java.util.Objects;
 

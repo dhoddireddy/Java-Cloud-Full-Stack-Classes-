@@ -1,4 +1,4 @@
-package inputoutput;
+package day3inputoutput;
 
 import java.io.IOException;
 import java.nio.file.Files;

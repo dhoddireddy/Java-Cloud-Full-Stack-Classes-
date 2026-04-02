@@ -1,4 +1,4 @@
-package inputoutput;
+package day3inputoutput;
 
 public class Write {
 

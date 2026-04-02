@@ -1,4 +1,4 @@
-package Object;
+package day3Object;
 
 public class ObjectClassDemo {
 

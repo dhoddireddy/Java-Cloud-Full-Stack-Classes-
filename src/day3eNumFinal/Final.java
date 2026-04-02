@@ -2,7 +2,7 @@
 
 
 
-package eNumFinal;
+package day3eNumFinal;
 
 final class Parent {
     // final class → cannot be extended
